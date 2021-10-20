@@ -1,1 +1,73 @@
-h1 { color: pink; }
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Crete+Round&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 19%;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #3c3a39;
+  color: aliceblue;
+  height: 200px;
+  padding: 20px 20px;
+}
+
+header p {
+  font-family: "Roboto", sans-serif;
+  font-size: 70px;
+  align-self: center;
+  cursor: pointer;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1a19;
+  height: 100vh;
+}
+
+#title {
+  color: #ff6b00;
+  font-size: 130px;
+  font-family: "Crete Round", sans-serif;
+  padding: 20px 20px;
+  margin-top: 220px;
+}
+
+#text1 {
+  color: #fff5e1;
+  font-size: 45px;
+  line-height: 2;
+  font-family: "Roboto", sans-serif;
+  padding: 30px;
+}
+
+#text2 {
+  color: #fff;
+  font-size: 38px;
+  font-family: "Poppins", sans-serif;
+  padding: 10px 20px;
+}
+
+#social_menu {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  width: 450px;
+  margin-left: 10px;
+}
+
+#social_menu img {
+  width: 70px;
+  height: 60px;
+  cursor: pointer;
+}

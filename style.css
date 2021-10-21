@@ -73,6 +73,8 @@ left:43px;
 .menu{
   position:absolute;
   right:20px;
+  float: right;
+  padding-left:20px;
 }
 .icons{
   display:flex;

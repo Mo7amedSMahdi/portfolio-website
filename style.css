@@ -18,12 +18,12 @@ nav {
   left: 20px;
   color: blue;
   font-family: Poppins;
-  font-style: bold;
+  font-style: normal;
   font-size: 18px;
 }
 
 .conn {
-  color: rgba(127, 140, 255, 1);
+  color: blue;
 }
 
 ul {
@@ -42,10 +42,10 @@ ul {
 }
 
 .para2 {
-  color: Neutrals/N600;
+  color: black;
   font-size: 17px;
-  font-family: Poppins;
-  font-style: regular;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
 }
 
 li {
@@ -89,4 +89,3 @@ li a {
   float: right;
   padding-left: 20px;
 }
-

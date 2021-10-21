@@ -3,7 +3,7 @@
 
 ## personal portfolio
 
-## microverse project setup
+## Mobile version portfolio
 ![screenshot](images/screen.png)
 
 

@@ -26,19 +26,15 @@ nav {
   color: blue;
 }
 
-ul
- {
+ul {
   list-style-type: none;
-
 }
 
-.icons 
- {
+.icons {
   display: flex;
   position: relative;
   right: 62px;
-
-  justify-content: space-between; 
+  justify-content: space-between;
 }
 
 .para1 {

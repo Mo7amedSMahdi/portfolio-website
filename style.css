@@ -5,19 +5,19 @@ body{
   position:relative;
 }
 nav{
-  Width :375px;
-  Height :25px;
-  display:block;
-  padding-top:60px;
+Width :375px;
+Height :25px;
+display:block;
+padding-top:60px;
 }
 .unit{
   text-decoration:none;
   position:absolute;
   left:20px;
   color:  blue;
-  Font family: Poppins;
-  Font style: Bold;
-  Font size: 18px;
+  Font-family: Poppins;
+  Font-style: Bold;
+  Font-size: 18px;
 }
 .conn{
   color:rgba(127, 140, 255, 1);

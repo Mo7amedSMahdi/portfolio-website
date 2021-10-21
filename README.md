@@ -4,7 +4,7 @@
 ## personal portfolio
 
 ## microverse project setup
-
+![screenshot](images/screen.png)
 this is the project which includes all necessary steps a micronaut must have at beginning.
 
 ## Additional description about the project and its features.
@@ -21,7 +21,7 @@ this is the project which includes all necessary steps a micronaut must have at 
 - Github
 
 ## Live Demo Link
-- click here to view this project (https://mugishasam123.github.io/Hello-World/)
+- click here to view this project (https://mugishasam123.github.io/portfolio-website/)
 
 ### Getting Started
 in order to run project locally you first have to clone it to your computer after run it in web browser by opening  index.html 

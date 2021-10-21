@@ -1,73 +1,102 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Crete+Round&display=swap");
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+body{
+  Width :375px;
+  Height :748px;
+  position:relative;
+
 }
 
-body {
-  width: 19%;
+nav{
+  Width :375px;
+  Height :25px;
+  display:block;
+  
+  padding-top:60px;
 }
 
-header {
-  display: flex;
-  justify-content: space-between;
-  background-color: #3c3a39;
-  color: aliceblue;
-  height: 200px;
-  padding: 20px 20px;
+.unit{
+  text-decoration:none;
+  position:absolute;
+  left:20px;
+  color:  blue;
+  Font family: Poppins;
+  Font style: Bold;
+  Font size: 18px;
 }
 
-header p {
-  font-family: "Roboto", sans-serif;
-  font-size: 70px;
-  align-self: center;
-  cursor: pointer;
+
+
+  
+
+.conn{
+  color:rgba(127, 140, 255, 1);
 }
 
-section {
-  display: flex;
-  flex-direction: column;
-  background-color: #1c1a19;
-  height: 100vh;
+ul {
+  list-style-type:none;
+  
 }
 
-#title {
-  color: #ff6b00;
-  font-size: 130px;
-  font-family: "Crete Round", sans-serif;
-  padding: 20px 20px;
-  margin-top: 220px;
+.icons{
+ display:flex;
+  position:relative;
+  right:62px;
+  justify-content:space-between;
+ 
+  
+}
+.para1{
+  color:rgba(23, 43, 77, 1);
+}
+.para2{
+color:Neutrals/N600;
+font-size:17px;
+Font-family:Poppins;
+Font-style:Regular;
+}
+li  {
+  float: left;
+}
+.unit:hover{
+  color:red;
+  cursor:pointer;
+}
+.conn:hover{
+  color:red;
+  cursor:pointer;
+}
+li a{
+  text-decoration:none;
+  display: block;
+  text-decoration: none;
 }
 
-#text1 {
-  color: #fff5e1;
-  font-size: 45px;
-  line-height: 2;
-  font-family: "Roboto", sans-serif;
-  padding: 30px;
+.pheno{
+  background-image:url("images/ikon.png");
+  background-size:cover;
+ 
+  
+  Width:375px;
+  height:590px;
 }
 
-#text2 {
-  color: #fff;
-  font-size: 38px;
-  font-family: "Poppins", sans-serif;
-  padding: 10px 20px;
+.tolu{
+ display:flex;
+ flex-direction:column;
+ justify-content:flex-start;
+position:absolute;
+top:206px;
+left:43px;
+
+
 }
 
-#social_menu {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 20px;
-  width: 450px;
-  margin-left: 10px;
+.menu{
+  position:absolute;
+  right:20px;
 }
-
-#social_menu img {
-  width: 70px;
-  height: 60px;
-  cursor: pointer;
+.icons{
+  display:flex;
+  justify-content:space-evenly;
+                              
 }

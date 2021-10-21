@@ -28,14 +28,16 @@ nav {
 
 ul
  {
-  list-style-type: none; 
+  list-style-type: none;
+
 }
 
 .icons 
-{
+ {
   display: flex;
   position: relative;
   right: 62px;
+
   justify-content: space-between; 
 }
 

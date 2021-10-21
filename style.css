@@ -1,82 +1,82 @@
 
 body {
-  Width:375px;
-  Height:748px;
-  position:relative;
+  Width: 375px;
+  Height: 748px;
+  position: relative;
 }
 nav {
-width:375px;
-height:25px;
-display:block;
-padding-top:60px;
+  width: 375px;
+  height: 25px;
+  display: block;
+  padding-top: 60px;
 }
 .unit {
-  text-decoration:none;
-  position:absolute;
-  left:20px;
-  color:  blue;
+  text-decoration: none;
+  position: absolute;
+  left: 20px;
+  color: blue;
   Font-family: Poppins;
   Font-style: Bold;
   Font-size: 18px;
 }
 .conn {
-  color:rgba(127, 140, 255, 1);
+  color: rgba(127, 140, 255, 1);
 }
 ul {
-  list-style-type:none; 
+  list-style-type: none; 
 }
 .icons {
- display:flex;
-  position:relative;
-  right:62px;
-  justify-content:space-between; 
+  display: flex;
+  position: relative;
+  right: 62px;
+  justify-content: space-between; 
 }
 .para1 {
-  color:rgba(23, 43, 77, 1);
+  color: rgba(23, 43, 77, 1);
 }
 .para2 {
-color:Neutrals/N600;
-font-size:17px;
-Font-family:Poppins;
-Font-style:Regular;
+  color: Neutrals/N600;
+  font-size: 17px;
+  Font-family: Poppins;
+  Font-style: Regular;
 }
 li {
   float: left;
 }
 .unit:hover {
-  color:red;
-  cursor:pointer;
+  color: red;
+  cursor: pointer;
 }
 .conn:hover {
-  color:red;
-  cursor:pointer;
+  color: red;
+  cursor: pointer;
 }
 li a {
-  text-decoration:none;
+  text-decoration: none;
   display: block;
   text-decoration: none;
 }
 .pheno {
-  background-image:url("images/ikon.png");
-  background-size:cover;
-  Width:375px;
-  height:590px;
+  background-image: url("images/ikon.png");
+  background-size: cover;
+  Width: 375px;
+  height: 590px;
 }
 .tolu {
- display:flex;
- flex-direction:column;
- justify-content:flex-start;
-position:absolute;
-top:206px;
-left:43px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: absolute;
+  top: 206px;
+  left: 43px;
 }
 .menu {
-  position:absolute;
-  right:20px;
+  position: absolute;
+  right: 20px;
   float: right;
-  padding-left:20px;
+  padding-left: 20px;
 }
 .icons {
-  display:flex;
-  justify-content:space-evenly;                            
+  display: flex;
+  justify-content: space-evenly;                           
 }

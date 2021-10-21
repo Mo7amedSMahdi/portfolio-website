@@ -17,7 +17,7 @@ nav {
   position: absolute;
   left: 20px;
   color: blue;
-  font-family: Poppins;
+  font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-size: 18px;
 }
@@ -26,11 +26,13 @@ nav {
   color: blue;
 }
 
-ul {
+ul
+ {
   list-style-type: none; 
 }
 
-.icons {
+.icons 
+{
   display: flex;
   position: relative;
   right: 62px;

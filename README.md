@@ -5,7 +5,9 @@
 
 ## microverse project setup
 ![screenshot](images/screen.png)
-this is the project which includes all necessary steps a micronaut must have at beginning.
+
+
+
 
 ## Additional description about the project and its features.
 - Understanding Git, and GitHub.

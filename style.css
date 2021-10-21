@@ -3,17 +3,13 @@ body{
   Width :375px;
   Height :748px;
   position:relative;
-
 }
-
 nav{
   Width :375px;
   Height :25px;
   display:block;
-  
   padding-top:60px;
 }
-
 .unit{
   text-decoration:none;
   position:absolute;
@@ -23,27 +19,17 @@ nav{
   Font style: Bold;
   Font size: 18px;
 }
-
-
-
-  
-
 .conn{
   color:rgba(127, 140, 255, 1);
 }
-
 ul {
-  list-style-type:none;
-  
+  list-style-type:none; 
 }
-
 .icons{
  display:flex;
   position:relative;
   right:62px;
-  justify-content:space-between;
- 
-  
+  justify-content:space-between; 
 }
 .para1{
   color:rgba(23, 43, 77, 1);
@@ -70,16 +56,12 @@ li a{
   display: block;
   text-decoration: none;
 }
-
 .pheno{
   background-image:url("images/ikon.png");
   background-size:cover;
- 
-  
   Width:375px;
   height:590px;
 }
-
 .tolu{
  display:flex;
  flex-direction:column;
@@ -87,16 +69,12 @@ li a{
 position:absolute;
 top:206px;
 left:43px;
-
-
 }
-
 .menu{
   position:absolute;
   right:20px;
 }
 .icons{
   display:flex;
-  justify-content:space-evenly;
-                              
+  justify-content:space-evenly;                            
 }

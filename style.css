@@ -23,7 +23,11 @@ nav {
 }
 
 .conn {
-  color: blue;
+  color: rgba(127, 140, 255, 1);
+  font-size: 16px;
+  line-height: 24px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 ul {
@@ -33,19 +37,26 @@ ul {
 .icons {
   display: flex;
   position: relative;
-  right: 62px;
+  right: 37px;
   justify-content: space-between;
 }
 
 .para1 {
   color: rgba(23, 43, 77, 1);
+  line-height: 52px;
+  font-weight: 700;
+  font-size: 40px;
+  font-family: Arial, sans-serif;
+  font-style: normal;
 }
 
 .para2 {
-  color: black;
-  font-size: 17px;
+  color: rgba(52, 69, 99, 1);
+  font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
+  line-height: 24px;
+  font-weight: 400;
 }
 
 li {
@@ -80,7 +91,7 @@ li a {
   justify-content: flex-start;
   position: absolute;
   top: 206px;
-  left: 43px;
+  left: 27px;
 }
 
 .menu {

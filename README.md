@@ -1,62 +1,69 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
+<<<<<<< Updated upstream
 # portfolio website
+=======
+# Microverse
+>>>>>>> Stashed changes
 
-> One paragraph statement about the project.
+## personal portfolio
 
-![screenshot](./app_screenshot.png)
+## Mobile version portfolio
+![screenshot](images/screen.png)
 
-Additional description about the project and its features.
+
+
+
+## Additional description about the project and its features.
+- Understanding Git, and GitHub.
+- Understanding GitHub Flow.
+- Understaanding linters and the structure and use of HTML & CSS
 
 ## Built With
+- html and css
 
 
-- Major languages
-- Frameworks
-- Technologies used
+### Technologies used
+- git
+- Github
 
-## Live Demo
+## Live Demo Link
+- click here to view this project (https://mugishasam123.github.io/portfolio-website/)
 
-[Live Demo Link](https://mugishasam123.github.io/portfolio-website/)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+### Getting Started
+in order to run project locally you first have to clone it to your computer after run it in web browser by opening  index.html 
 
 ### Prerequisites
+## Setup
+no setup
+## Install
+you need to clone the project files to your laptop and after you run them locally in your laptop
 
-### Setup
-**N/A
-## Authors
+## Run tests
+no tests required.
 
-👤 **Author**
+### Authors
 
-- GitHub: [@githubhandle](https://github.com/mugishasam123)
-- Twitter: [@twitterhandle](https://twitter.com/mugishasamuel42/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mugisha-samuel-55a905208/)
+## 👤 Author
+. GitHub:https://github.com/mugishasam123/
 
+.Twitter: https://twitter.com/mugishasamuel42/
+
+.LinkedIn: https://www.linkedin.com/in/mugisha-samuel-55a905208/
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
 ## Show your support
-
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+    Hat tip to anyone whose code was used 
+    Microverse program 
+    My standup team 
+    My family's support 
 
 ## 📝 License
 
-This project is [MIT] licensed.
+This project is open source project.

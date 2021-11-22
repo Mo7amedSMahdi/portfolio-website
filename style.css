@@ -1,0 +1,91 @@
+
+body {
+  width: 375px;
+  height: 748px;
+  position: relative;
+}
+
+nav {
+  width: 375px;
+  height: 25px;
+  display: block;
+  padding-top: 60px;
+}
+
+.unit {
+  text-decoration: none;
+  position: absolute;
+  left: 20px;
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 18px;
+}
+
+.conn {
+  color: blue;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.icons {
+  display: flex;
+  position: relative;
+  right: 62px;
+  justify-content: space-between;
+}
+
+.para1 {
+  color: rgba(23, 43, 77, 1);
+}
+
+.para2 {
+  color: black;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+}
+
+li {
+  float: left;
+}
+
+.unit:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.conn:hover {
+  color: red;
+  cursor: pointer;
+}
+
+li a {
+  text-decoration: none;
+  display: block;
+}
+
+.pheno {
+  background-image: url("images/ikon.png");
+  background-size: cover;
+  width: 375px;
+  height: 590px;
+}
+
+.tolu {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: absolute;
+  top: 206px;
+  left: 43px;
+}
+
+.menu {
+  position: absolute;
+  right: 20px;
+  float: right;
+  padding-left: 20px;
+}

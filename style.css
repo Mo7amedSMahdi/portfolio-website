@@ -21,8 +21,7 @@
 
 header {
   width: 375px;
-  position: relative;
-  left: 570px;
+  margin: auto;
 }
 
 nav {

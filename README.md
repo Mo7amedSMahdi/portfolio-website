@@ -10,8 +10,8 @@ This is the mobile version of my portfolio homepage .
 ## Built With
 
 
-- Major languages:HTML and CSS
-- Technologies used:Git,GitHub and linters
+- Major languages : HTML and CSS
+- Technologies used : Git,GitHub and linters
 
 ## Live Demo
 

@@ -17,8 +17,6 @@ This is the mobile version of my portfolio homepage .
 
 [Live Demo Link](https://mugishasam123.github.io/portfolio-website/)
 
-To get a local copy up and running follow these simple example steps.
-
 ### Setup
 **N/A
 ## Authors

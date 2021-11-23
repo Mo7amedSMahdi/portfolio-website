@@ -22,19 +22,14 @@
 header {
   width: 375px;
   margin: auto;
-}
-
-nav {
-  width: 375px;
-  margin: auto;
   display: flex;
   justify-content: space-between;
-  padding-top: 28px;
-  padding-left: 24px;
-  padding-right: 36px;
+  padding-top: 35px;
+  padding-left: 15px;
+  padding-right: 16px;
 }
 
-header nav a {
+header a {
   font-family: "Roboto", sans-serif;
   color: #fff5e1;
   font-size: 18px;
